@@ -50,8 +50,8 @@
 
 ### 🚀 Side Projects
 *My personal space for creating things outside the roadmap:*
-- **[Project Name]**: (Link your project here)
-- **[Coming Soon]**: Stay tuned for more creative builds!
+
+
 
 ---
 
