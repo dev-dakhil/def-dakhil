@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./discipline%20wallpaper%204k.jpg" alt="Discipline" width="100%">
 
-  # ✨ Hi, I'm Dakhil Saleh
+  # ✨ Hi, I'm Dakhil
   ### "Writing Clean Code is Mind-Blowing, Not Just a Skill" 🚀
 </div>
 
@@ -77,4 +77,4 @@ I am passionate about organized code because:
 </div>
 
 ---
-<p align="center">"Discipline is the bridge between goals and accomplishment" | 2025 📅</p>
+<p align="center">"Discipline" | 2025 📅</p>
