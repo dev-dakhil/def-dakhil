@@ -5,17 +5,6 @@
   ### "Writing Clean Code is Mind-Blowing, Not Just a Skill" 🚀
 </div>
 
----
-
-### 🧠 My Philosophy: Code as "Puzzle Art" 🧱
-To me, **Clean Code** isn't just a set of rules—it’s a satisfying feeling, much like putting together Lego pieces or solving a complex puzzle. 
-I am passionate about organized code because:
-- It reflects **Organized Thinking** and logic.
-- It gives a **Great Sensation** of clarity and flow.
-- It transforms programming complexity into a **Masterpiece** that anyone can understand.
-
----
-
 ### 🛠️ Tech Stack & Tools
 *My current focus is on mastering the fundamentals with precision:*
 - **Primary Language:** C++ 💻
@@ -76,5 +65,16 @@ I am passionate about organized code because:
   </a>
 </div>
 
+
+---
+
+### 🧠 My Philosophy: Code as "Puzzle Art" 🧱
+To me, **Clean Code** isn't just a set of rules—it’s a satisfying feeling, much like putting together Lego pieces or solving a complex puzzle. 
+I am passionate about organized code because:
+- It reflects **Organized Thinking** and logic.
+- It gives a **Great Sensation** of clarity and flow.
+- It transforms programming complexity into a **Masterpiece** that anyone can understand.
+
+---
 ---
 <p align="center">"Discipline" | 2025 📅</p>
