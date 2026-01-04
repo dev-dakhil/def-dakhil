@@ -76,6 +76,7 @@ I am passionate about organized code because:
 <div align="center">
   <img src="./discipline%20wallpaper%204k.jpg" alt="Discipline" width="100%">
 
+ ### "Writing Clean Code is Mind-Blowing, Not Just a Skill" 🚀
 ---
 ---
-<p align="center">"Discipline" | 2026 📅</p>
+<p align="center">"I'm glad you're here" | 2026 📅</p>
