@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="./discipline%20wallpaper%204k.jpg" alt="Discipline" width="100%">
 
   # ✨ Hi, I'm Dakhil
   ### "Writing Clean Code is Mind-Blowing, Not Just a Skill" 🚀
