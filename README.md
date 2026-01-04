@@ -1,6 +1,5 @@
 
   # ✨ Hi, I'm Dakhil
-  ### "Writing Clean Code is Mind-Blowing, Not Just a Skill" 🚀
 </div>
 
 ### 🛠️ Tech Stack & Tools
@@ -66,7 +65,7 @@
 
 ---
 
-### 🧠 My Philosophy: Code as "Puzzle Art" 🧱
+### 🧠 My Philosophy in Code as "Puzzle Art" 🧱
 To me, **Clean Code** isn't just a set of rules—it’s a satisfying feeling, much like putting together Lego pieces or solving a complex puzzle. 
 I am passionate about organized code because:
 - It reflects **Organized Thinking** and logic.
