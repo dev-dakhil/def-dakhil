@@ -9,7 +9,7 @@
 *My current focus is on mastering the fundamentals with precision:*
 - **Primary Language:** C++ 💻
 - **IDE:** VS Code ⚡
-- **Focus:** Problem Solving & Algorithms 🧠
+- **Focus:** Problem Solving & Building projects 🧠
 
 ---
 
@@ -21,14 +21,14 @@
 ---
 
 ### 🗺️ The 24-Step Journey (Programming Advices Roadmap) 🎓
-*Building a rock-solid foundation, currently at the 4th station:*
+*Building a rock-solid foundation, currently at the 5th station:*
 
 #### 🟦 Phase 1: Deep Foundations (Current Stage)
 - [x] ✅ 01 - Foundations Level 1
 - [x] ✅ 02 - Algorithms Level 1
 - [x] ✅ 03 - C++ Level 1
-- [x] ⏳ **04 - Advanced Solutions for Algorithms Level 1** (Currently Grinding 🔥)
-- [ ] 🔒 05 - Algorithms Level 2 [Solutions Coming Soon..]
+- [x] ✅ 04 - Advanced Solutions for Algorithms Level 1
+- [x] ⏳ **05 - Algorithms Level 2** (Currently Grinding 🔥)
 - [ ] 🔒 06 - C++ Level 2
 - [ ] 🔒 07 - Algorithms Level 3
 - [ ] 🔒 08 - Algorithms Level 4
@@ -75,6 +75,9 @@ I am passionate about organized code because:
 - It gives a **Great Sensation** of clarity and flow.
 - It transforms programming complexity into a **Masterpiece** that anyone can understand.
 
+<div align="center">
+  <img src="./discipline%20wallpaper%204k.jpg" alt="Discipline" width="100%">
+
 ---
 ---
-<p align="center">"Discipline" | 2025 📅</p>
+<p align="center">"Discipline" | 2026 📅</p>
