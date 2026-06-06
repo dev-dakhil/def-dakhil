@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="./discipline%20wallpaper%204k.jpg" alt="Discipline" width="100%">
 
   # ✨ Hi, I'm Dakhil
 </div>
@@ -22,3 +20,6 @@ while (isAlive) {
     keepLearning();
     applyCleanCode(); // It's like putting together Lego pieces 🧱
 }
+
+<div align="center">
+  <img src="./discipline%20wallpaper%204k.jpg" alt="Discipline" width="100%">
