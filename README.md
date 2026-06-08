@@ -39,14 +39,13 @@ I am a student focused on programming and **Full-Stack Development**. Currently,
 
 
   ### "Writing Clean Code is Mind-Blowing, Not Just a Skill" 🚀
+  
 ```cpp
 while (isAlive) {
     keepLearning();
     applyCleanCode(); // It's like putting together Lego pieces 🧱
 }
 
-<div align="center">
-  <img src="./discipline%20wallpaper%204k.jpg" alt="Discipline" width="100%">
 
 
 
